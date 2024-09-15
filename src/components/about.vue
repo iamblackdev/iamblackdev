@@ -6,7 +6,7 @@
                 <div class="about-card ">
 
                   <p>
-                   I'm a Frontend web developer based in Nigeria, working with different web technologies to build projects i find intresting and having direct impact on people, while following best practices applicable. I'm capable of learning and working with new technologies swiftly.
+                   I'm a Frontend web developer based in the UK, working with different web technologies to build projects i find intresting and having direct impact on people, while following best practices applicable. I'm capable of learning and working with new technologies swiftly.
                   </p>
                   <p>
                      Most of my time is spent on learning new technologies in the web to build awesome stuffs.
